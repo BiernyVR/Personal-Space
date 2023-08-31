@@ -17,7 +17,7 @@ Hello! I'm Jakub, an experienced professional in the IT sector with a passion fo
 
 ## 🌱 **Learning & Growth**
 
-Always eager to learn and grow, I'm currently exploring deeper into e-commerce and looking forward to contributing more to the tech community.
+Always eager to learn and grow, I'm currently exploring deeper into GenerativeAI and looking forward to contributing more to the tech community.
 
 ## 🤝 **Let's Connect!**
 
